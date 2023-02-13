@@ -1,2 +1,2 @@
-# mcDonald_clone
-McDonald clone project
+# 맥딜리버리 사이트 클론 프로젝트
+맥딜리버리 사이트를 Next.js를 이용하여 만들어보았습니다.
